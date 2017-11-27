@@ -11,4 +11,7 @@ What is the benefit of having a copy of the last known state of the remote store
   So that you can go back and see the changes on other versions.  
   
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
-  I would collarborate without using github by simply working withthe other person/people in the same room at the same time using machines near to each other. This would make it easier to understand and/or implement changes in the program as you can ask them what they meant right away, However scheduling meet-ups may be too difficult and could end up delaying progress.
+  I would collarborate without using github by simply working withthe other person/people in the same room at the same time   using machines near to each other. This would make it easier to understand and/or implement changes in the program as you can ask them what they meant right away, However scheduling meet-ups may be too difficult and could end up delaying progress.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+  When the changes you make will cause a conflict with the master branch
